@@ -1,6 +1,6 @@
-# Realtime-example
+# Realtime-example 🙂
 
-> A Vue.js project
+> A Vue.js 💚 project
 
 ## Build Setup
 
